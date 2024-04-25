@@ -1,5 +1,16 @@
 # AI Notebooks Vault
 
+<div align="center">
+    <a href="">
+        <img alt="open-source-image"
+        src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+    </a>
+</div>
+<br/>
+<div align="center">
+    <p>Liked our work? give us a ⭐!</p>
+</div>
+
 Welcome to <b>AI Notebooks Vault</b>! This repository contains the code snippets and examples for different uses of Artificial Intelligence.
 
 ## Code Explanation
