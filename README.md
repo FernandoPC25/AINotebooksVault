@@ -1,12 +1,12 @@
 # AI Notebooks Vault
 
-Welcome to [AINotebooksVault]! This repository contains the code snippets and examples for different uses of Artificial Intelligence.
+Welcome to <b>AI Notebooks Vault</b>! This repository contains the code snippets and examples for different uses of Artificial Intelligence.
 
 ## Code Explanation
 
 In this repository, you'll find Jupyter notebooks containing code snippets and parts of the code that are explained in more detail in articles published on Medium or Towards Data Science. These articles provide a deeper understanding and explanation of the code presented in the notebooks.
 
-If you are looking for a more thorough and easy-to-understand explanation, you can visit the articles on Medium/Towards Data Science using the links provided below:
+If you are looking for a more thorough and easy-to-understand explanation, you can visit the articles on Medium using the links provided below:
 
 - [Medium account](https://medium.com/@fernandopalominocobo)
 
