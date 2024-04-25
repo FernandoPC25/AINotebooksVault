@@ -1,16 +1,5 @@
 # AI Notebooks Vault
 
-<div align="center">
-    <a href="">
-        <img alt="open-source-image"
-        src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
-    </a>
-</div>
-<br/>
-<div align="center">
-    <p>Liked our work? give us a ⭐!</p>
-</div>
-
 Welcome to <b>AI Notebooks Vault</b>! This repository contains the code snippets and examples for different uses of Artificial Intelligence.
 
 ## Code Explanation
@@ -53,5 +42,16 @@ If you find any issues or have suggestions for improvements, feel free to contri
 
 This project is licensed under the GPL-3.0 license
 
+____
+<div align="center">
+    <a href="">
+        <img alt="open-source-image"
+        src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+    </a>
+</div>
+<br/>
+<div align="center">
+    <p>Liked our work? give us a ⭐!</p>
+</div>
 
 
