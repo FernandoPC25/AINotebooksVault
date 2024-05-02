@@ -24,6 +24,7 @@ Feel free to explore the notebooks and articles to gain a better understanding o
 Here's a list of notebooks available in this repository:
 
 - [U-Net](https://github.com/FernandoPC25/AINotebooksVault/blob/main/UNet-CarvanaDataset.ipynb)
+- [ViT: Understanding the PatchEmbedding](https://github.com/FernandoPC25/AINotebooksVault/blob/main/vit-part1.ipynb)
 
 
 ## Installation
