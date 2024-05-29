@@ -25,6 +25,7 @@ Here's a list of notebooks available in this repository:
 
 - [U-Net](https://github.com/FernandoPC25/AINotebooksVault/blob/main/UNet-CarvanaDataset.ipynb)
 - [ViT: Understanding the PatchEmbedding](https://github.com/FernandoPC25/AINotebooksVault/blob/main/vit-part1.ipynb)
+- [ViT: Understanding the Transformer Encoder](https://github.com/FernandoPC25/AINotebooksVault/blob/main/vit-part2.ipynb)
 
 
 ## Installation
