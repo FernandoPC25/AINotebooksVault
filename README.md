@@ -27,6 +27,7 @@ Here's a list of notebooks available in this repository:
 - [ViT(1/3): Understanding PatchEmbedding](https://github.com/FernandoPC25/AINotebooksVault/blob/main/vit-part1.ipynb)
 - [ViT(2/3): Understanding Transformer Encoder](https://github.com/FernandoPC25/AINotebooksVault/blob/main/vit-part2.ipynb)
 - [ViT(3/3): Understanding Multihead Attention](https://github.com/FernandoPC25/AINotebooksVault/blob/main/vit-part3.ipynb)
+- [Effortless Vector Search with Pinecone: Tutorial with On-the-Fly Embeddings](https://github.com/FernandoPC25/AINotebooksVault/blob/main/pinecone-astronaut-cat.ipynb)
 
 
 ## Installation
